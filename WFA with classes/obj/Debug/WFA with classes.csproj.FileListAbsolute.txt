@@ -1,0 +1,15 @@
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\bin\Debug\WFA with classes.exe.config
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\bin\Debug\WFA with classes.exe
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\bin\Debug\WFA with classes.pdb
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA with classes.csproj.AssemblyReference.cache
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA with classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA_with_classes.Form1.resources
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA_with_classes.Properties.Resources.resources
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA with classes.csproj.GenerateResource.cache
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA with classes.csproj.CoreCompileInputs.cache
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA with classes.exe
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA with classes.pdb
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA_with_classes.YYForm.resources
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA_with_classes.NNForm.resources
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA_with_classes.DDForm.resources
+C:\Users\Civ\source\repos\WFA with classes\WFA with classes\obj\Debug\WFA_with_classes.ZZForm.resources
